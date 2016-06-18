@@ -1,4 +1,3 @@
-layout_spectrum: 0.17754422849975526
 typography_spectrum: 0.049916419899091125
 color:
   brandStrength: 0.9531799808610231
@@ -11,6 +10,9 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-name: Medability Healthcare Solutions
+layout_spectrum: 0.17754422849975526
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/96d194fa-6264-4867-8957-6886ba8dbff0.png
+name: Medability Healthcare Solutions
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4681bf-b585-4c3a-9249-0852b2dbf207.png
